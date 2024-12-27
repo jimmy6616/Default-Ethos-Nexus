@@ -27,5 +27,11 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file2.png)
 
+Click Execute. The file will be applied to your Nexus and will reboot
+
+5. The Nexus FBL and your transmitter have now been configured.
+
+6. Please ensure your transmitter has the test Click the receiver tab on the configurator
+
 
    
