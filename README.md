@@ -26,17 +26,18 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file1.png)
 
 
-8. and connect to the Nexus fbl, open the Rotorflight configurator, the latest version can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
+4. and connect to the Nexus fbl, open the Rotorflight configurator, the latest version can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
 
-9. Once connected to the configurator, click CLI on the left hand side, then click 'Load from File', select the 'Default Ethos diff-all.txt' down loaded from Github earlier,
+5. Once connected to the configurator, click CLI on the left hand side, then click 'Load from File', select the 'Default Ethos diff-all.txt' down loaded from Github earlier,
 
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file2.png)
 
 Click Execute. The file will be applied to your Nexus and will reboot
 
-5. The Nexus FBL and your transmitter have now been configured.
+6. The Nexus FBL and your transmitter have now been configured.
 
-6. Please ensure your transmitter has the test Click the receiver tab on the configurator
+7. Please ensure your transmitter has the 'Nexus test' model selected
+8. Click the receiver tab on the configurator
 
 
    
