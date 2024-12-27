@@ -43,5 +43,11 @@ Click Execute. The file will be applied to your Nexus and will reboot
 
 10. ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file3.png)
 
+11. If the Receiver and transmitter are connected the bars will move showing the connectivity, if the bars do not move please ensure the following:
+12. The receiver is bound to the transmitter, the RX normally shows a solid green led
+13. In the RF settings of the transmitter for the Nexus Test model ensure you have F.Bus protocol selected
+14. In the Receiver tab, as above, ensure F.bus is selected and Inverted and single wire are checked
+15. 
+
 
    
