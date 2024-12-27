@@ -1,5 +1,5 @@
 # Default-Ethos-Nexus
-## This will expain the process to create a basic Rotorflight Ethos and FBL setup, the readme.txt file explains the initial setup and presumes a knowledge and understanding of registration and binding of a Frsky Access receiver.
+## This will expain the process to create a basic Rotorflight Ethos and FBL setup, the readme.txt file explains the initial setup and presumes the registration and binding of a Frsky Access receiver to your transmitter has been done before these steps.
 
 In this example the file and data is based on a Rotorflight Nexus FBL
 
