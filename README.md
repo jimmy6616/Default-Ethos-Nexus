@@ -15,5 +15,7 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 
    ## Setup
 
-1. Connect the transmitter to the PC and run Ethos Suite, the latest version of Ethos Suite is available 
+1. Connect the transmitter to the PC and run Ethos Suite, the latest version of Ethos Suite is available [HERE](https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases)
+
+2. 
    
