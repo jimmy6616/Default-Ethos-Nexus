@@ -21,5 +21,11 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file.png)
 
+3. Un-plug the USB cable from the transmitter and connect to the Nexus fbl, open the Rotorflight configurator, the latest version can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
+
+4. Once connected to the configurator, click CLI on the left hand side, then click 'Load from File', select the 'Default Ethos diff-all.txt' down loaded from Github earlier,
+
+
+
 
    
