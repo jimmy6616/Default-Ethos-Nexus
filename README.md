@@ -19,5 +19,7 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 
 2. On you Windows pc\laptop navigate to the file downloaded above (Default Ethos Model.bin), select and copy this file to the transmitter SD card , models directory.
 
-[image](
+[image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file.png)
+
+
    
