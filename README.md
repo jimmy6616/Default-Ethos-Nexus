@@ -15,7 +15,7 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 
    ## Setup
 
-1. Connect the transmitter to the PC and run Ethos Suite, the latest version of Ethos Suite is available [HERE](https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases)
+1. Connect the transmitter to the PC and select Ethos Suite, the latest version of Ethos Suite is available [HERE](https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases)
 
 2. On you Windows pc\laptop navigate to the file downloaded above (Default Ethos Model.bin), select and copy this file to the transmitter SD card , models directory.
 
@@ -26,9 +26,9 @@ In this example the file and data is based on a Rotorflight Nexus FBL
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file1.png)
 
 
-4. and connect to the Nexus fbl, open the Rotorflight configurator, the latest version can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
+4. and connect the USB-C cable to the Nexus fbl, open the Rotorflight configurator, the latest version can be found [HERE](https://github.com/rotorflight/rotorflight-firmware/releases)
 
-5. Once connected to the configurator, click CLI on the left hand side, then click 'Load from File', select the 'Default Ethos diff-all.txt' down loaded from Github earlier,
+5. Once connected to the configurator, click CLI on the left hand side, then click 'Load from File', select the 'Default Ethos diff-all.txt' downloaded from Github earlier.
 
 ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file2.png)
 
@@ -38,6 +38,10 @@ Click Execute. The file will be applied to your Nexus and will reboot
 
 7. Please ensure your transmitter has the 'Nexus test' model selected
 8. Click the receiver tab on the configurator
+
+9. This will show something similar to this, move your transmitter joysticks and the bars on the right of the screen will move.
+
+10. ![image](https://github.com/jimmy6616/Default-Ethos-Nexus/blob/img/default-radio-file3.png)
 
 
    
